@@ -23,6 +23,9 @@ print("\nFirst row using iloc:\n", df.iloc[0])
 # Select rows 1 to 3 (excluding 3)
 print("\nRows 1 to 2:\n", df.iloc[1:3])
 
+#print("\nLast 2 Rows:\n", df.iloc[-2:])
+
+
 # loc -> label-based indexing
 print("\nScore column using loc:\n", df.loc[:, "score"])
 

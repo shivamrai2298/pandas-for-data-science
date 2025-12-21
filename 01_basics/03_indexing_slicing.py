@@ -1,4 +1,3 @@
-
 """
 03_indexing_slicing.py
 ----------------------
@@ -28,7 +27,9 @@ print("\nRows 1 to 2:\n", df.iloc[1:3])
 print("\nScore column using loc:\n", df.loc[:, "score"])
 
 # Conditional selection
-high_scorers = df[df["score"] > 85]
+#high_scorers = df[(df["score"] > 85) & (df["score"] < 96) ]
+#high_scorers = df.query("score > 85 and score < 96")
+high_scorers = df[(df["score"] > 85)]
 print("\nStudents with score > 85:\n", high_scorers)
 
 # ==================================================

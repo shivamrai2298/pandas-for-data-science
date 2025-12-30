@@ -35,6 +35,8 @@ print("\nUpdated Scores:\n", updated_scores)
 print("\nData type:", scores.dtype)
 print("Shape:", scores.shape)
 
+
+#Below are the list of questions for interview and for practice
 # ==================================================
 # INTERVIEW QUESTIONS
 # ==================================================

@@ -31,6 +31,7 @@ print("\nSalary statistics:\n", df["salary"].describe())
 # Shape of DataFrame
 print("\nRows & Columns:", df.shape)
 
+#solution file is in the same folder
 # ==================================================
 # INTERVIEW QUESTIONS
 # ==================================================

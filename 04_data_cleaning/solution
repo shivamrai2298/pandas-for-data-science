@@ -1,0 +1,67 @@
+# -------------------------------
+# INTERVIEW QUESTIONS (ANSWERS)
+# -------------------------------
+
+# Q1: What does duplicated() return?
+# A: It returns a boolean Series indicating whether each row is a duplicate
+#    of a previous row. By default, the first occurrence is marked False
+#    and subsequent duplicates are marked True.
+
+# Q2: What is the default behavior of drop_duplicates()?
+# A: It removes duplicate rows while keeping the first occurrence
+#    (keep='first') and considers all columns.
+
+# Q3: Difference between full-row and subset duplicates?
+# A:
+# - Full-row duplicates: All column values must match.
+# - Subset duplicates: Only specified columns are checked for duplication.
+
+# Q4: Why should duplicates be inspected before deletion?
+# A:
+# - Duplicates may represent valid repeated events
+# - You may need to decide which record to keep (latest, highest value, etc.)
+# - Blind deletion can cause data loss or bias
+
+# Q5: Can duplicates ever represent valid data?
+# A:
+# Yes. Examples include multiple purchases by the same customer,
+# repeated log events, or sensor readings at the same timestamp.
+
+# -------------------------------
+# PRACTICE EXERCISES (SOLVED)
+# -------------------------------
+
+import pandas as pd
+
+# Sample Data
+df = pd.DataFrame({
+    "order_id": [1, 2, 2, 3, 4, 4],
+    "customer_id": [101, 102, 102, 103, 104, 104],
+    "amount": [500, 700, 700, 400, 900, 900]
+})
+
+print("\nOriginal Data:")
+print(df)
+
+# 1. Identify all duplicate rows
+duplicates = df[df.duplicated()]
+print("\nDuplicate Rows:")
+print(duplicates)
+
+# 2. Remove duplicate rows (keep first occurrence)
+df_no_duplicates = df.drop_duplicates()
+print("\nAfter Removing Duplicates:")
+print(df_no_duplicates)
+
+# 3. Keep only the last occurrence of duplicates
+df_keep_last = df.drop_duplicates(keep="last")
+print("\nKeeping Last Occurrence:")
+print(df_keep_last)
+
+# 4. Verify duplicates are removed
+print("\nAny duplicates left?:", df_no_duplicates.duplicated().any())
+
+# 5. Find duplicates using a subset of columns
+subset_duplicates = df[df.duplicated(subset=["customer_id", "amount"])]
+print("\nSubset-Based Duplicates (customer_id, amount):")
+print(subset_duplicates)

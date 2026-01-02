@@ -84,4 +84,6 @@ print("\nMemory usage of Pclass:",
 # 4. Compare memory usage before and after conversion.
 # 5. Convert Survived to boolean.
 
+#make sure to practice on everyday basis
+
 

@@ -5,6 +5,7 @@ Covers:
 - Pandas → ML pipeline
 - Feature / target separation
 - Model training
+- Adjustment
 """
 
 import pandas as pd

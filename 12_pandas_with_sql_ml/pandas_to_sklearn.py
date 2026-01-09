@@ -62,7 +62,8 @@ importance = pd.Series(
     model.coef_[0],
     index=X.columns
 )
-
+#printing feature importance
 print("\nFeature Importance:")
 print(importance)
+
 

@@ -25,7 +25,7 @@ sales = pd.DataFrame({
 sales.to_sql("sales", conn, index=False, if_exists="replace")
 
 # ==============================
-# SQL QUERY
+# SQL QUERY for customer details
 # ==============================
 
 query = """

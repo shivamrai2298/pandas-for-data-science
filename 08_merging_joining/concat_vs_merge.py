@@ -4,7 +4,7 @@ concat_vs_merge.py
 Covers:
 - pd.concat()
 - pd.merge()
-- Key differences between concat and merge
+- Key differences between concat and merge in pandas
 """
 
 import pandas as pd

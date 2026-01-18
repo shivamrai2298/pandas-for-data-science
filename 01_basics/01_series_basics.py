@@ -4,7 +4,7 @@
 Covers:
 - Creating Pandas Series
 - Indexing
-- Vectorized operations in pandas
+- Vectorized operations
 """
 
 import pandas as pd

@@ -1,7 +1,7 @@
 """
 01_series_basics.py
 -------------------
-Covers:
+Topics Covers:
 - Creating Pandas Series
 - Indexing
 - Vectorized operations

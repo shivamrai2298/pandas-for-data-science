@@ -1,7 +1,7 @@
 """
 03_indexing_slicing.py
 ----------------------
-Covers:
+Topics Covers:
 - loc vs iloc
 - Row & column slicing
 """

@@ -2,7 +2,7 @@
 """
 weighted_metrics.py
 -------------------
-Covers:
+Topics Covers:
 - Weighted average
 - Importance weighting
 - Business-adjusted metrics

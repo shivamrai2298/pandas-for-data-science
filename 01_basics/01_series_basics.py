@@ -3,7 +3,7 @@
 -------------------
 Topics Covers:
 - Creating Pandas Series
-- Indexing
+- Indexing qq
 - Vectorized operations
 """
 

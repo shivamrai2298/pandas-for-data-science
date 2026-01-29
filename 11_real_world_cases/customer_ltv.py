@@ -4,7 +4,7 @@ customer_ltv.py
 Covers:
 - Customer Lifetime Value (LTV)
 - Revenue-based customer importance
-- Business assumptions
+- Business assumptions calc
 """
 
 import pandas as pd

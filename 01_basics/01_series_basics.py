@@ -1,7 +1,7 @@
 """
 01_series_basics.py
 -------------------
-Topics Covers:
+Topics Covers in this session:
 - Creating Pandas Series
 - Indexing qq
 - Vectorized operations

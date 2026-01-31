@@ -1,7 +1,7 @@
 """
 insurance_pricing_metrics.py
 ----------------------------
-Covers:
+Topics Covers:
 - Loss ratio
 - Pricing health indicators
 """

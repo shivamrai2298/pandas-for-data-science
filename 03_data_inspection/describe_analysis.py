@@ -2,7 +2,7 @@
 02_describe_analysis.py
 ----------------------
 Covers:
-- describe()
+- describe()12
 - Basic statistics
 """
 

@@ -3,7 +3,7 @@ time_based_groupby.py
 ---------------------
 Covers:
 - Grouper
-- Time-based groupby
+- Time-based groupby in pandas
 """
 
 import pandas as pd

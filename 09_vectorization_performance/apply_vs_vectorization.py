@@ -4,7 +4,7 @@ apply_vs_vectorization.py
 Covers:
 - apply() vs vectorized operations
 - Performance difference
-- When apply() should be avoided
+- When apply() should be avoided in this
 """
 
 import pandas as pd

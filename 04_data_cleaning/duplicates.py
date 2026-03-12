@@ -1,5 +1,4 @@
 """
-02_duplicates.py 
 ----------------
 Covers:
 - Identifying duplicates

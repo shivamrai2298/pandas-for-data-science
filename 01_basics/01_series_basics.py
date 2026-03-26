@@ -4,7 +4,7 @@
 Topics Covers in this session:
 - Creating Pandas Series
 - Indexing qq
-- Vectorized operations
+- Vectorized operations 
 """
 
 import pandas as pd

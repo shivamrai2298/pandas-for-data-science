@@ -7,7 +7,7 @@ Covers:
 - Basic statistics
 """
 
-import pandas as pd
+import pandas as pd 
 
 # Creating a DataFrame using a dictionary
 data = {

@@ -6,7 +6,7 @@ This file contains:
 2. Solutions to all practice exercises
 Related to folder: 03_data_inspection
 Dataset used: Titanic dataset
-"""
+""" 
 
 import pandas as pd
 

@@ -7,7 +7,7 @@ Covers:
 - info()
 """
 
-import pandas as pd
+import pandas as pd 
 
 # Load dataset
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"

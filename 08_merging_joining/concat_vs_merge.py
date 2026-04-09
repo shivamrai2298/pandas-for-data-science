@@ -13,7 +13,7 @@ import pandas as pd
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
 
-# Create smaller DataFrames
+# Create smaller DataFrames 
 df_passengers = df[["PassengerId", "Name", "Sex"]]
 df_fares = df[["PassengerId", "Fare"]]
 

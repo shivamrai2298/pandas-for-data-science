@@ -5,7 +5,7 @@ Covers:
 - transform()
 - apply()
 - Differences and use cases
-"""
+""" 
 
 import pandas as pd
 

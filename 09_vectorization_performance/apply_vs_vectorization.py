@@ -5,7 +5,7 @@ Covers:
 - apply() vs vectorized operations
 - Performance difference
 - When apply() should be avoided in this
-"""
+""" 
 
 import pandas as pd
 import time

@@ -1,6 +1,6 @@
 """
 resampling.py
-------------- 
+-------------  
 Covers:
 - resample()
 - Frequency conversion

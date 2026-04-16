@@ -11,7 +11,7 @@ import pandas as pd
 # Load dataset
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
- 
+  
 # Create datetime index
 df["Date"] = pd.date_range(
     start="2020-01-01",

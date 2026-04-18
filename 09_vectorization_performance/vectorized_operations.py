@@ -4,7 +4,7 @@ vectorized_operations.py
 Covers:
 - Arithmetic vectorization
 - Boolean masking
-- Conditional operations
+- Conditional operations 
 """
 
 import pandas as pd

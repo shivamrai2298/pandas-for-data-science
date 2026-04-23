@@ -18,7 +18,7 @@ df = pd.read_csv(url)
 
 print("\nMissing values per column:\n", df.isnull().sum())
 
-print("\nRows where Age is missing:\n", df[df["Age"].isnull()].head())
+print("\nRows where Age is missing:\n", df[df["Age"].isnull()].head()) 
 
 # -------------------------------
 # INTERVIEW QUESTIONS

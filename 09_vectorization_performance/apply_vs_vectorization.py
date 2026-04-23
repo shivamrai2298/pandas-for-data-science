@@ -1,6 +1,6 @@
 """
 apply_vs_vectorization.py
--------------------------
+------------------------- 
 Covers:
 - apply() vs vectorized operations
 - Performance difference

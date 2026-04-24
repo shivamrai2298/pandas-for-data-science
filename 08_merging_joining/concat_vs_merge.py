@@ -9,7 +9,7 @@ Covers:
 
 import pandas as pd
 
-# Load dataset
+# Load dataset 
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
 

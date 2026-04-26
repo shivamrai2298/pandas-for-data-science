@@ -1,6 +1,6 @@
 """
 funnel_analysis.py
-------------------
+------------------ 
 Covers:
 - Funnel steps
 - Conversion rates

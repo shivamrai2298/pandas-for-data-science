@@ -1,6 +1,6 @@
 """
 02_describe_analysis.py
-----------------------
+---------------------- 
 Covers:
 - describe()12
 - Basic statistics

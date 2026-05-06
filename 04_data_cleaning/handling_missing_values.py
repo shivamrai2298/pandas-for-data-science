@@ -3,7 +3,7 @@
 --------------------
 Covers: 
 - Detecting missing values
-- Understanding missing data patterns
+- Understanding missing data patterns 
 """
 
 import pandas as pd

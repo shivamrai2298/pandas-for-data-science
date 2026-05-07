@@ -3,7 +3,7 @@ transform_vs_apply.py
 ---------------------
 Covers:
 - transform() 
-- apply()
+- apply() 
 - Differences and use cases
 """  
 

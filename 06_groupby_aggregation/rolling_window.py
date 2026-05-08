@@ -1,7 +1,7 @@
 """
 rolling_window.py
 -----------------
-Covers:
+Covers: 
 - rolling()
 - Window-based calculations
 """

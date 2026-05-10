@@ -2,7 +2,7 @@
 multiple_aggregations.py
 ------------------------
 Covers:
-- agg()
+- agg() 
 - Multiple aggregation functions
 """
 

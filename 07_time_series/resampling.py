@@ -2,7 +2,7 @@
 resampling.py
 -------------  
 Covers:
-- resample()
+- resample() 
 - Frequency conversion 
 """
 

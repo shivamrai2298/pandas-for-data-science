@@ -10,7 +10,7 @@
 # Q2: What is the default behavior of drop_duplicates()?
 # A: It removes duplicate rows while keeping the first occurrence
 #    (keep='first') and considers all columns.
-
+ 
 # Q3: Difference between full-row and subset duplicates?
 # A:
 # - Full-row duplicates: All column values must match.

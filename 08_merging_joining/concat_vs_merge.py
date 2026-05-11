@@ -2,7 +2,7 @@
 concat_vs_merge.py
 ------------------
 Covers:
-- pd.concat()
+- pd.concat() 
 - pd.merge()
 - Key differences between concat and merge in pandas
 """

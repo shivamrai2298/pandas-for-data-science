@@ -2,7 +2,7 @@
 time_based_groupby.py
 ---------------------
 Covers:
-- Grouper
+- Grouper 
 - Time-based groupby in pandas 
 """
 

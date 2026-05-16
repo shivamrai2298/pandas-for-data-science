@@ -5,7 +5,7 @@ lambda_functions.py
 Covers: 
 - lambda functions
 - Inline transformations
-"""
+""" 
 
 import pandas as pd
 

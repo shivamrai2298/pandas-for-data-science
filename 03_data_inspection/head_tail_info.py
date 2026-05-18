@@ -4,7 +4,7 @@
 Covers:
 - head()
 - tail()
-- info()
+- info() 
 """
 
 import pandas as pd 

@@ -2,7 +2,7 @@
 02_dataframe_basics.py
 ---------------------- 
 Covers:
-- Creating DataFrames
+- Creating DataFrames 
 - Column access
 - Basic statistics
 """

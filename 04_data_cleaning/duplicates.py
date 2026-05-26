@@ -1,7 +1,7 @@
 """
 ----------------
 Covers: 
-- Identifying duplicates
+- Identifying duplicates 
 - Understanding duplicate rows
 """
 

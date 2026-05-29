@@ -3,7 +3,7 @@
 -------------- 
 Covers:
 - Reading CSV files 
-- Common parameters
+- Common parameters 
 - Basic validation
 """
 

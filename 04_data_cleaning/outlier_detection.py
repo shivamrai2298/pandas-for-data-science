@@ -3,7 +3,7 @@
 -------------- 
 Covers:
 - Outlier detection
-- IQR method
+- IQR method 
 """
 
 import pandas as pd

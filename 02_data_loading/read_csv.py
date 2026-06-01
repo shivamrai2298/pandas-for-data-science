@@ -1,7 +1,7 @@
 """
 01_read_csv.py
 -------------- 
-Covers:
+Covers: 
 - Reading CSV files 
 - Common parameters 
 - Basic validation

@@ -2,7 +2,7 @@
 02_read_excel.py
 ----------------
 Covers:
-- Reading Excel files
+- Reading Excel files 
 - Multiple sheets
 """
 

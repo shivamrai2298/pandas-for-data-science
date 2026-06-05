@@ -2,7 +2,7 @@
 05_outliers.py 
 --------------  
 Covers:
-- Outlier detection
+- Outlier detection 
 - IQR method 
 """
 

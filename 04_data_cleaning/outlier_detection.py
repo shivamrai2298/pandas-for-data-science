@@ -4,7 +4,7 @@
 Covers:
 - Outlier detection 
 - IQR method 
-"""
+""" 
 
 import pandas as pd
 

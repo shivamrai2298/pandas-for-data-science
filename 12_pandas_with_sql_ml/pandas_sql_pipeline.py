@@ -2,7 +2,7 @@
 pandas_sql_pipeline.py
 ----------------------
 Covers:
-- Pandas + SQL workflow
+- Pandas + SQL workflow 
 - Data extraction
 - Analytical transformation
 """

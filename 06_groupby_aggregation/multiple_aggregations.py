@@ -3,7 +3,7 @@ multiple_aggregations.py
 ------------------------
 Covers:
 - agg() 
-- Multiple aggregation functions
+- Multiple aggregation functions 
 """
 
 import pandas as pd

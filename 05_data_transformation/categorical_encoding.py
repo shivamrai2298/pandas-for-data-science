@@ -4,7 +4,7 @@ categorical_encoding.py
 Covers:
 - Label Encoding
 - One-Hot Encoding  
-- get_dummies() 
+- get_dummies()  
 """
  
 import pandas as pd

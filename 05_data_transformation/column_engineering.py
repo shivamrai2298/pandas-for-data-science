@@ -3,7 +3,7 @@ column_engineering.py
 --------------------- 
 Covers:   
 - Feature / Column Engineering
-- Derived columns 
+- Derived columns  
 """ 
 
 import pandas as pd 

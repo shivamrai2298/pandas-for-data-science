@@ -2,7 +2,7 @@
 groupby_basics.py
 -----------------
 Covers:
-- groupby()
+- groupby() 
 - Basic aggregations
 """
 

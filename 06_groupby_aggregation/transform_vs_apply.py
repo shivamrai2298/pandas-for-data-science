@@ -1,7 +1,7 @@
 """
 transform_vs_apply.py
 ---------------------
-Covers:
+Covers: 
 - transform() 
 - apply() 
 - Differences and use cases

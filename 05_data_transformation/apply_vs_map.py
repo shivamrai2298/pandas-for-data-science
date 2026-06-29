@@ -2,7 +2,7 @@
 apply_vs_map.py
 ---------------
 Covers:
-- apply()
+- apply() 
 - map()
 - When to use which
 """

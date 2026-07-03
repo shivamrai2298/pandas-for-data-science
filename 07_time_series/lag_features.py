@@ -1,7 +1,7 @@
 """
 resampling.py
 -------------
-Covers:
+Covers: 
 - resample()
 - Frequency conversion 
 """

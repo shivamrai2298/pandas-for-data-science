@@ -3,7 +3,7 @@ rolling_window.py
 -----------------
 Covers: 
 - rolling()  
-- Window-based calculations
+- Window-based calculations 
 """
 
 import pandas as pd 

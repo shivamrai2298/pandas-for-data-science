@@ -1,6 +1,6 @@
 """
 02_dataframe_basics.py
----------------------- 
+----------------------  
 Covers:
 - Creating DataFrames 
 - Column access

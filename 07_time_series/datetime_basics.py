@@ -2,7 +2,7 @@
 datetime_basics.py file 
 ------------------
 Covers:
-- pd.to_datetime()
+- pd.to_datetime() 
 - DateTime properties
 """
 

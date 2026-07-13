@@ -2,7 +2,7 @@
 column_engineering.py 
 ---------------------   
 Covers:   
-- Feature / Column Engineering
+- Feature / Column Engineering 
 - Derived columns  
 """ 
 

@@ -2,7 +2,7 @@
 rolling_window.py
 -----------------
 Covers: 
-- rolling()   
+- rolling()    
 - Window-based calculations 
 """
 

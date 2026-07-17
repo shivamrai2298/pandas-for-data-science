@@ -1,7 +1,7 @@
 """
 multiple_aggregations.py
 ------------------------
-Covers:
+Covers: 
 - agg() 
 - Multiple aggregation functions 
 """

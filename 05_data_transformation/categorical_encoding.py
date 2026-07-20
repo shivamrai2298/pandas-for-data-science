@@ -5,7 +5,7 @@ Covers:
 - Label Encoding
 - One-Hot Encoding  
 - get_dummies()  
-"""
+""" 
  
 import pandas as pd
 

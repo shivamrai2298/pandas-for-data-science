@@ -3,7 +3,7 @@ categorical_encoding.py
 -----------------------
 Covers:
 - Label Encoding
-- One-Hot Encoding  
+- One-Hot Encoding   
 - get_dummies()  
 """ 
  

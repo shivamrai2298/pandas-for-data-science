@@ -1,7 +1,7 @@
 """
 01_missing_values.py 
 --------------------
-Covers: 
+Covers:   
 - Detecting missing values
 - Understanding missing data patterns 
 """

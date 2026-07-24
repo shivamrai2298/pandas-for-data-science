@@ -2,7 +2,7 @@
 vectorized_operations.py
 ------------------------
 Covers:
-- Arithmetic vectorization
+- Arithmetic vectorization 
 - Boolean masking
 - Conditional operations 
 """

@@ -1,7 +1,7 @@
 """
 02_read_excel.py
 ----------------
-Covers:
+Covers: 
 - Reading Excel files 
 - Multiple sheets
 """

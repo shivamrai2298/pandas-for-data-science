@@ -1,7 +1,7 @@
 """
 vectorized_operations.py
 ------------------------
-Covers:
+Covers: 
 - Arithmetic vectorization 
 - Boolean masking
 - Conditional operations 

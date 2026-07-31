@@ -3,7 +3,7 @@ datetime_basics.py file
 ------------------
 Covers:
 - pd.to_datetime() 
-- DateTime properties
+- DateTime properties 
 """
 
 import pandas as pd

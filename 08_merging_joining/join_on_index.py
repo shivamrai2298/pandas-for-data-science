@@ -2,7 +2,7 @@
 join_on_index.py
 ----------------
 Covers:
-- DataFrame.join()
+- DataFrame.join() 
 - Joining on index
 """
 

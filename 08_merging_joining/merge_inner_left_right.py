@@ -2,7 +2,7 @@
 merge_inner_left_right.py
 ------------------------
 Covers:
-- inner, left, right, outer joins
+- inner, left, right, outer joins 
 """
 
 import pandas as pd

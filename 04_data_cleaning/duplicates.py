@@ -1,5 +1,5 @@
 """
-----------------
+---------------- 
 Covers:  
 - Identifying duplicates 
 - Understanding duplicate rows

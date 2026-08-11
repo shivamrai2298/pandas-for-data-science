@@ -2,7 +2,7 @@
 01_head_tail_info.py
 -------------------
 Covers:
-- head()
+- head() 
 - tail()
 - info() 
 """

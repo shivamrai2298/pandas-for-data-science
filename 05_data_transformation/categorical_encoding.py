@@ -1,7 +1,7 @@
 """
 categorical_encoding.py
 -----------------------
-Covers:
+Covers: 
 - Label Encoding
 - One-Hot Encoding   
 - get_dummies()  

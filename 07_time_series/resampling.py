@@ -3,7 +3,7 @@ resampling.py
 -------------  
 Covers:
 - resample() 
-- Frequency conversion 
+- Frequency conversion  
 """ 
 
 import pandas as pd
